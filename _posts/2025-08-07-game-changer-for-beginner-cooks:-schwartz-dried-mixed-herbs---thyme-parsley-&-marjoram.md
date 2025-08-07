@@ -2,7 +2,7 @@
 layout: post
 title:  "Game Changer for Beginner Cooks: Schwartz Dried Mixed Herbs - Thyme, Parsley & Marjoram"
 author: Tommy
-categories: [ Bathroom ]
+categories: [ Cooking & Baking ]
 external_image: https://m.media-amazon.com/images/I/61FHygJ9zyL.__AC_SX300_SY300_QL70_ML2_.jpg
 ---
 

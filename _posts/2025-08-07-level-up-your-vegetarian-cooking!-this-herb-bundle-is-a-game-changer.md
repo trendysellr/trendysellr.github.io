@@ -2,7 +2,7 @@
 layout: post
 title:  "Level up your vegetarian cooking! This herb bundle is a GAME CHANGER."
 author: Tommy
-categories: [ Bathroom ]
+categories: [ Cooking & Baking ]
 external_image: https://m.media-amazon.com/images/I/81sEov3xWkL.__AC_SX300_SY300_QL70_ML2_.jpg
 ---
 

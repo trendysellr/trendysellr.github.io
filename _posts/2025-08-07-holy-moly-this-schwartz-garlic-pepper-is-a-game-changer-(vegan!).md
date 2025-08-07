@@ -2,7 +2,7 @@
 layout: post
 title:  "Holy moly, this Schwartz Garlic Pepper is a GAME CHANGER (Vegan!)"
 author: Tommy
-categories: [ Bathroom ]
+categories: [ Cooking & Baking ]
 external_image: https://m.media-amazon.com/images/I/61VffLqNWRL.__AC_SX300_SY300_QL70_ML2_.jpg
 ---
 
