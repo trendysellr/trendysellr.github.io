@@ -3,7 +3,7 @@ layout: post
 title:  "Holy moly, Old Bay Lemon & Herb is GAME CHANGING!"
 author: sal
 categories: [ Bathroom ]
-image: https://m.media-amazon.com/images/I/91JFW8RfNEL.__AC_SX300_SY300_QL70_ML2_.jpg
+external_image: https://m.media-amazon.com/images/I/91JFW8RfNEL.__AC_SX300_SY300_QL70_ML2_.jpg
 ---
 
 **Title:**  Holy moly, Old Bay Lemon & Herb is GAME CHANGING!
